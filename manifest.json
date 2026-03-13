@@ -1,0 +1,10 @@
+{
+  "id": "win-desktop-control",
+  "name": "win-desktop",
+  "description": "原生 Windows 桌面控制，支持鼠标移动、点击和屏幕截图",
+  "version": "1.0.0",
+  "author": "Hu",
+  "entrypoint": "control.ps1",
+  "type": "script",
+  "homepage": "https://github.com/hbb009/win-desktop-control"
+}

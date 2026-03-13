@@ -1,0 +1,6 @@
+# 忽略系统自动生成的垃圾文件
+[Dd]esktop.ini
+thumbs.db
+
+# 忽略测试生成的截图文件
+*.png
